@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videoonweb/static/css/main.37f29662.css",
+    "main.js": "/videoonweb/static/js/main.f612e3db.js",
+    "index.html": "/videoonweb/index.html",
+    "main.37f29662.css.map": "/videoonweb/static/css/main.37f29662.css.map",
+    "main.f612e3db.js.map": "/videoonweb/static/js/main.f612e3db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f29662.css",
+    "static/js/main.f612e3db.js"
+  ]
+}
